@@ -1,0 +1,3 @@
+portfolio,total return %,sharpe,max drawdown %,trades
+with costs,0.08,0.04,-9.1,2
+no costs,0.38,0.05,-9.1,2

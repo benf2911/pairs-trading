@@ -1,0 +1,7 @@
+pair,corr,p value,passes
+UK banks,0.8,0.909,False
+Oil majors,0.9,0.151,False
+Supermarkets,0.45,0.054,False
+Insurers,0.81,0.8,False
+Miners,0.81,0.004,True
+Country ETFs,0.84,0.048,True
